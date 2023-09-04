@@ -33,7 +33,7 @@ If you are developing a production application, we recommend updating the config
 - [x] Poder borrar un TODO
 - [x] Marcar TODO como completado
 - [x] Añadir forma de filtrar TODOs (Footer)
-- [] Crear Header con input (Header)
+- [x] Crear Header con input (Header)
 - [] Crear un TODO (Header)
 - [] Poder editar el texto de un TODO (Doble click)
 - [] Añadir animación con AutoAnimate
